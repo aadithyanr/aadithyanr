@@ -12,3 +12,7 @@
 </pre>
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=TheAadithyan&hide=["issues"]&show_icons=true)
+
+### Currently Listening
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jxd9gp9sg4ha6owy232p63znr&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=jxd9gp9sg4ha6owy232p63znr&redirect=true)
