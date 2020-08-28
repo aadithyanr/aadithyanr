@@ -11,6 +11,6 @@
 - ⚡ Fun fact: I love swimming and chilling with friends.
 </pre>
 
-### Currently Listening
+### Currently Listening!
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jxd9gp9sg4ha6owy232p63znr&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=jxd9gp9sg4ha6owy232p63znr&redirect=true)
