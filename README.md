@@ -1,16 +1,23 @@
-### Hey there, Aadithyan Here! 👋 
+### 👋
 
-<pre>
-- 🔭 I’m currently working on Mentrgo, Tangled.
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter.
-- 🤔 I’m looking for help with React and Flutter.
-- 💬 Ask me about Design!
-- 📫 How to reach me: hello@trinetsolutions.online
-- 😄 Pronouns: Him/They/Them
-- ⚡ Fun fact: I love swimming and chilling with friends.
-</pre>
+<hr />
 
-### Currently Listening!
+Hiya, I'm **Aadithyan** — an entrepreneur and a software developer with a soft spot for design systems and user interfaces. ✨
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jxd9gp9sg4ha6owy232p63znr&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=jxd9gp9sg4ha6owy232p63znr&redirect=true)
+Currently, I'm building the world's first peer-peer learning platform with the incredible team at [Tangled](https://tangled.ae).
+
+On the side, I apply my learnings, research, and experience with open source softwares.
+
+## Things I care about (in no particular order)
+
+🎉 Wonderful code and attention to detail
+
+💻 Reusable, consistent, and accessible design for everyone.
+
+♿️ Thoughtful and accessible experiences for all
+
+📸 Photography, road cycling and hanging out with friends!
+
+<hr />
+
+### ✌️
