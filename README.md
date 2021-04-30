@@ -2,7 +2,7 @@
 
 <hr />
 
-Hiya, I'm **Aadithyan** — an entrepreneur and a software developer with a soft spot for design systems and user interfaces. ✨
+Hiya, I'm **Aadithyan** — an entrepreneur and a software developer with a soft spot for frontend systems and user interfaces. ✨
 
 Currently, I'm building the world's first peer-peer learning platform with the incredible team at [Tangled](https://tangled.ae).
 
