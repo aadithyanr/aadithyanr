@@ -1,23 +1,33 @@
-### 👋
 
-<hr />
+## 👋 Aadithyan - @aadithyanrajesh ⚽
+Hiya, I'm **Aadithyan** — an entrepreneur and a software developer with a soft spot for design, experience and frontend. ✨
 
-Hiya, I'm **Aadithyan** — an entrepreneur and a software developer with a soft spot for frontend systems and user interfaces. ✨
+## 🎾 Currently...
+- Working on Mentrgo, a peer-to-peer mentorship platform that enhances team collaboration, learning, and productivity.
+- Trying to learn more about compilers & how to play guitar 
+- Reading more [biology and sci-fi](https://www.goodreads.com/user/show/107783325-aadithyan-rajesh)
 
-Currently, I'm building the world's first peer-peer learning platform with the incredible team at [Tangled](https://tangled.ae).
+## 🌟 Past 
+- Built [Tangled](https://tangled.ae), world's first peer-peer learning platform.
+- Android Intern at [BankOnus](https://bankonus.com/).
+- Co-founded [Crophle](https://crophle.com/) where I was CDO & CXO.
 
-On the side, I apply my learnings, research, and experience with open source softwares.
+## ☕ Wanna Chat? 
+Shoot me an [email](mailto:hell@trinetsolutions.online)! Open to DMs on [Twitter](https://twitter.com/aadithyanrajesh) as well.
 
-## Things I care about (in no particular order)
+![Sonny's github stats](https://github-readme-stats.vercel.app/api?username=theaadithyan&show_icons=true&count_private=true)
 
-🎉 Wonderful code and attention to detail
+<!--
+**theAadithyan/theAadithyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-💻 Reusable, consistent, and accessible design for everyone.
+Here are some ideas to get you started:
 
-♿️ Thoughtful and accessible experiences for all
-
-📸 Photography, road cycling and hanging out with friends!
-
-<hr />
-
-### ✌️
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
