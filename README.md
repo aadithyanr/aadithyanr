@@ -3,7 +3,7 @@
 Hiya, I'm **Aadithyan** — an entrepreneur and a software developer with a soft spot for design, experience and frontend. ✨
 
 ## 🎾 Currently...
-- Working on Mentrgo, a peer-to-peer mentorship platform that enhances team collaboration, learning, and productivity.
+- Working on Mentrgo, a peer-to-peer mentorship platform for teens to enhances collaboration, learning, and productivity.
 - Trying to learn more about compilers & how to play guitar 
 - Reading more [biology and sci-fi](https://www.goodreads.com/user/show/107783325-aadithyan-rajesh)
 
