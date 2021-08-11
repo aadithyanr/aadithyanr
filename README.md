@@ -15,7 +15,7 @@ Hiya, I'm **Aadithyan** — an entrepreneur and a software developer with a soft
 ## ☕ Wanna Chat? 
 Shoot me an [email](mailto:hell@trinetsolutions.online)! Open to DMs on [Twitter](https://twitter.com/aadithyanrajesh) as well.
 
-![Sonny's github stats](https://github-readme-stats.vercel.app/api?username=theaadithyan&show_icons=true&count_private=true)
+![Aadi's github stats](https://github-readme-stats.vercel.app/api?username=theaadithyan&show_icons=true&count_private=true)
 
 <!--
 **theAadithyan/theAadithyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
